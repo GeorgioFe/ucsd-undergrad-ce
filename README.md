@@ -19,30 +19,25 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=5>Fall 2021</td>
-            <td>CSE 20</td>
-            <td>Discrete Mathematics</td>
-            <td>Minnes Kemp, Mor Mia</td>
+            <td rowspan=4>Fall 2022</td>
+            <td>CSE 21</td>
+            <td>Mathematics for Algorithms and Systems</td>
+            <td>Impagliazzo, Russell</td>
         </tr>
         <tr>
             <td>CSE 15L</td>
             <td>Software Tools and Techniques Laboratory</td>
-            <td>Gillespie, Gary N</td>
+            <td>Politz, Joseph Gibbs</td>
         </tr>
         <tr>
-            <td>MATH 183</td>
-            <td>Statistical Methods</td>
-            <td>Rava, Denise</td>
+            <td>PHIL 10</td>
+            <td>Introduction to Logic</td>
+            <td>Grush, Rick Scott</td>
         </tr>
         <tr>
-            <td>MUS 126</td>
-            <td>Blues: An Oral Tradition</td>
-            <td>Borgo, David Garcia</td>
-        </tr>
-        <tr>
-            <td>SOCI 138</td>
-            <td>Genetics and Society</td>
-            <td>Navon, Daniel</td>
+            <td>WCWP 100</td>
+            <td>Warren Academic Writing</td>
+            <td>McCleary, Keith Long</td>
         </tr>
     </tbody>
     <tbody>
