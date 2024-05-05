@@ -93,28 +93,28 @@
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=2>Summer Section I 2022</td>
-            <td>WCWP 100</td>
-            <td>Academic Writing</td>
-            <td>Twohig, Niall Ivan</td>
+            <td rowspan=2>Summer Session I 2023</td>
+            <td>CSE 140</td>
+            <td>Components and Design Techniques for Digital Systems</td>
+            <td>Eldon, John</td>
         </tr>
         <tr>
-            <td>COGS 101A</td>
-            <td>Sensation and Perception</td>
-            <td>Davis, Joshua Daniel</td>
+            <td>CSE 140L</td>
+            <td>Digital Systems Laboratory</td>
+            <td>Eldon, John</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=2>Summer Section II 2022</td>
-            <td><a href="https://github.com/alina10050805/CSE-101-SummerII-2022">CSE 101</a></td>
-            <td>Design & Analysis of Algorithm</td>
-            <td>Braun, Oliver</td>
+            <td rowspan=2>Summer Session II 2023</td>
+            <td>CSE 142</a></td>
+            <td>Introduction to Computer Architecture: A Software Perspective</td>
+            <td>Tseng, Hung-Wei</td>
         </tr>
         <tr>
-            <td>CSE 141L</td>
-            <td>Project/Computer Architecture</td>
-            <td>Eldon, John</td>
+            <td>CSE 142L</td>
+            <td>Software Project for Computer Architecture</td>
+            <td>Tseng, Hung-Wei</td>
         </tr>
     </tbody>
     <tbody>
