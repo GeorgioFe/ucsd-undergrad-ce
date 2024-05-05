@@ -42,30 +42,25 @@
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=5>Winter 2022</td>
-            <td>CSE 21</td>
-            <td>Math/Algorithm&Systems Analys</td>
-            <td>Jones, Miles E</td>
+            <td rowspan=4>Winter 2023</td>
+            <td>CSE 100</td>
+            <td>Advanced Data Structures </td>
+            <td>Moshiri, Niema</td>
         </tr>
         <tr>
-            <td>CSE 140</td>
-            <td>Component&Desgn Tech/Digtl Sys</td>
-            <td>Rosing, Tajana Simunic</td>
+            <td>CSE 101</td>
+            <td>Design and Analysis of Algorithms</td>
+            <td>Kane, Daniel Mertz</td>
         </tr>
         <tr>
-            <td>CSE 140L</td>
-            <td>Digital Systems Laboratory</td>
-            <td>Eldon, John</td>
+            <td>ECE 35</td>
+            <td>Introduction to Analog Design</td>
+            <td>Gilja, Vikash</td>
         </tr>
         <tr>
-            <td>EDS 124BR</td>
-            <td>Teach Computational Thinking</td>
-            <td>Simon, Elizabeth A</td>
-        </tr>
-        <tr>
-            <td>MGT 172</td>
-            <td>Business Project Management</td>
-            <td>Erat, Sanjiv</td>
+            <td>POLI 27</td>
+            <td>Ethics And Society I</td>
+            <td>Elgin, Samuel Zincke</td>
         </tr>
     </tbody>
     <tbody>
