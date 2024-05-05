@@ -107,7 +107,7 @@
     <tbody>
         <tr>
             <td rowspan=2>Summer Session II 2023</td>
-            <td>CSE 142</a></td>
+            <td>CSE 142</td>
             <td>Introduction to Computer Architecture: A Software Perspective</td>
             <td>Tseng, Hung-Wei</td>
         </tr>
@@ -119,61 +119,61 @@
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=4>Fall 2022</td>
-            <td><a href="https://github.com/alina10050805/CSE-110-Fall-2022">CSE 110</a></td>
-            <td>Software Engineering</td>
-            <td>Powell, Thomas Allan</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/alina10050805/CSE-158-Fall-2022">CSE 158</a></td>
-            <td>Recommender Sys&Web Mining</td>
-            <td>McAuley, Julian John</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/alina10050805/COGS_108">COGS 108</a></td>
-            <td>Data Science in Practice</td>
+            <td rowspan=3>Fall 2024</td>
+            <td>COGS 108</td>
+            <td>Data Science In Practice</td>
             <td>Fleischer, Jason G</td>
         </tr>
         <tr>
-            <td>EDS 124AR</td>
-            <td>Teach Computation/DigitalWorld</td>
-            <td>Simon, Elizabeth A</td>
+            <td>CSE 158</td>
+            <td>Recommender Systems and Web Mining</td>
+            <td>McAuley, Julian John</td>
+        </tr>
+        <tr>
+            <td>ECE 45</td>
+            <td>Circuits and Systems</td>
+            <td>Antipa, Nicholas A</td>
         </tr>
     </tbody>
     <tbody>
+         <tr>
+            <td rowspan=4>Winter 2024</td>
+            <td>CSE 120</td>
+            <td>Principles of Computer Operating Systems</td>
+            <td>Pasquale, Joseph</td>
+        </tr>
         <tr>
-            <td rowspan=3>Winter 2023</td>
-            <td><a href="https://github.com/alina10050805/CSE-132A-Winter-2023">CSE 132A</a></td>
+            <td>CSE 132A</td>
             <td>Database System Principles</td>
             <td>Vianu, Victor Dan</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/alina10050805/CSE-167-Winter-2023">CSE 167</a></td>
-            <td>Computer Graphics</td>
-            <td>Ramamoorthi, Ravi</td>
+            <td>ECE 101</td>
+            <td>Linear Systems Fundamentals</td>
+            <td>Baghdadchi, Saharnaz</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/alina10050805/MATH-189-Winter-2023">MATH 189</a></td>
-            <td>Data Analysis and Inference</td>
-            <td>Zhou, Wenxin</td>
+            <td>ECE 140A</td>
+            <td>The Art of Product Engineering I</td>
+            <td>Khoshabeh, Ramsin and Gessner, Richard K.</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=3>Spring 2023</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td rowspan=3>Spring 2024</td>
+            <td>CSE 156</td>
+            <td>Statistical Natural Language Processing</td>
+            <td>Nakashole, Ndapandula</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>CSE 190</td>
+            <td>Introduction to Quantum Computing</td>
+            <td>Grier, Daniel T</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>ECE 140B</td>
+            <td>The Art of Product Engineering II</td>
+            <td>Khoshabeh, Ramsin and Gessner, Richard K.</td>
         </tr>
     </tbody>
 </table>
