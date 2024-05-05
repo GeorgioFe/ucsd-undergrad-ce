@@ -65,20 +65,30 @@
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=3>Spring 2022</td>
-            <td>CSE 100</td>
-            <td>Advanced Data Structures</td>
-            <td>Sahoo, Debashis</td>
+            <td rowspan=5>Spring 2023</td>
+            <td>COGS 1</td>
+            <td>Introduction to Cognitive Science</td>
+            <td>Barrera, Steven James</td>
         </tr>
         <tr>
-            <td>CSE 105</td>
-            <td>Theory of Computation</td>
-            <td>Minnes Kemp, Mor Mia</td>
+            <td>CSE 110</td>
+            <td>Software Engineering</td>
+            <td>Powell, Thomas Allan</td>
         </tr>
         <tr>
-            <td>CSE 141</td>
-            <td>Intro/Computer Architecture</td>
-            <td>Pannuto, Patrick William</td>
+            <td>ECE 65</td>
+            <td>Components and Circuits Laboratory</td>
+            <td>Baghdadchi, Saharnaz</td>
+        </tr>
+        <tr>
+            <td>ECE 109</td>
+            <td>Engineering Probability and Statistics</td>
+            <td>Orlitzky, Alon</td>
+        </tr>
+        <tr>
+            <td>PHIL 28</td>
+            <td>Ethics And Society I</td>
+            <td>Brink, David O.</td>
         </tr>
     </tbody>
     <tbody>
