@@ -175,5 +175,22 @@
             <td>The Art of Product Engineering II</td>
             <td>Khoshabeh, Ramsin and Gessner, Richard K.</td>
         </tr>
+        <tr>
+            <td rowspan=2>Summer Session I 2024</td>
+            <td>CSE 151A</td>
+            <td>Introduction to Machine Learning</td>
+            <td>Solares, Edwin</td>
+        </tr>
+        <tr>
+            <td>LIGN 8</td>
+            <td>Languages and Cultures in America</td>
+            <td>McIntosh, Justin D</td>
+        </tr>
+        <tr>
+            <td rowspan=1>Summer Session II 2024</td>
+            <td>COGS 187A</td>
+            <td>Usability and Information Architecture</td>
+            <td>Boyle, Mary E. T./</td>
+        </tr>
     </tbody>
 </table>
